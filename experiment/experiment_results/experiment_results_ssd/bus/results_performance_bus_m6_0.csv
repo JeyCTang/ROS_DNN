@@ -1,0 +1,440 @@
+,category,score
+0,none,0.0
+1,none,0.0
+2,none,0.0
+3,none,0.0
+4,none,0.0
+5,none,0.0
+6,none,0.0
+7,none,0.0
+8,none,0.0
+9,traffic light,0.51
+10,none,0.0
+11,none,0.0
+12,none,0.0
+13,none,0.0
+14,none,0.0
+15,traffic light,0.52
+16,none,0.0
+17,none,0.0
+18,none,0.0
+19,car,0.56
+20,car,0.56
+21,car,0.53
+22,car,0.51
+23,none,0.0
+24,none,0.0
+25,none,0.0
+26,none,0.0
+27,none,0.0
+28,none,0.0
+29,none,0.0
+30,none,0.0
+31,none,0.0
+32,bus,0.51
+33,none,0.0
+34,none,0.0
+35,bus,0.5
+36,none,0.0
+37,none,0.0
+38,none,0.0
+39,none,0.0
+40,none,0.0
+41,none,0.0
+42,none,0.0
+43,bus,0.57
+44,bus,0.6
+45,bus,0.54
+46,none,0.0
+47,bus,0.53
+48,none,0.0
+49,none,0.0
+50,none,0.0
+51,none,0.0
+52,bus,0.54
+53,cell phone,0.5
+54,none,0.0
+55,none,0.0
+56,bus,0.55
+57,none,0.0
+58,none,0.0
+59,none,0.0
+60,none,0.0
+61,cell phone,0.5
+62,none,0.0
+63,cell phone,0.51
+64,none,0.0
+65,none,0.0
+66,none,0.0
+67,none,0.0
+68,cell phone,0.5
+69,cell phone,0.53
+70,none,0.0
+71,none,0.0
+72,none,0.0
+73,none,0.0
+74,none,0.0
+75,none,0.0
+76,cell phone,0.53
+77,bus,0.51
+78,bus,0.61
+79,bus,0.56
+80,bus,0.55
+81,bus,0.54
+82,bus,0.54
+83,bus,0.55
+84,none,0.0
+85,bus,0.61
+86,bus,0.51
+87,none,0.0
+88,none,0.0
+89,none,0.0
+90,none,0.0
+91,none,0.0
+92,bus,0.5
+93,none,0.0
+94,none,0.0
+95,none,0.0
+96,none,0.0
+97,none,0.0
+98,none,0.0
+99,none,0.0
+100,none,0.0
+101,none,0.0
+102,none,0.0
+103,none,0.0
+104,none,0.0
+105,none,0.0
+106,none,0.0
+107,traffic light,0.5
+108,none,0.0
+109,traffic light,0.59
+110,traffic light,0.61
+111,tv,0.57
+112,tv,0.55
+113,tv,0.51
+114,none,0.0
+115,traffic light,0.6
+116,tv,0.55
+117,traffic light,0.6
+118,traffic light,0.61
+119,traffic light,0.58
+120,traffic light,0.59
+121,traffic light,0.51
+122,cell phone,0.51
+123,none,0.0
+124,none,0.0
+125,none,0.0
+126,none,0.0
+127,none,0.0
+128,none,0.0
+129,none,0.0
+130,none,0.0
+131,none,0.0
+132,none,0.0
+133,none,0.0
+134,bus,0.51
+135,none,0.0
+136,none,0.0
+137,bus,0.55
+138,none,0.0
+139,none,0.0
+140,none,0.0
+141,bus,0.51
+142,none,0.0
+143,none,0.0
+144,bus,0.53
+145,bus,0.58
+146,none,0.0
+147,none,0.0
+148,bus,0.6
+149,bus,0.54
+150,none,0.0
+151,bus,0.57
+152,bus,0.53
+153,none,0.0
+154,none,0.0
+155,none,0.0
+156,none,0.0
+157,none,0.0
+158,none,0.0
+159,none,0.0
+160,none,0.0
+161,cell phone,0.54
+162,none,0.0
+163,none,0.0
+164,none,0.0
+165,none,0.0
+166,none,0.0
+167,none,0.0
+168,none,0.0
+169,none,0.0
+170,cell phone,0.5
+171,none,0.0
+172,none,0.0
+173,none,0.0
+174,bus,0.53
+175,cell phone,0.52
+176,none,0.0
+177,none,0.0
+178,bus,0.59
+179,bus,0.55
+180,none,0.0
+181,none,0.0
+182,none,0.0
+183,none,0.0
+184,none,0.0
+185,none,0.0
+186,bus,0.62
+187,none,0.0
+188,none,0.0
+189,none,0.0
+190,none,0.0
+191,none,0.0
+192,none,0.0
+193,none,0.0
+194,none,0.0
+195,none,0.0
+196,none,0.0
+197,none,0.0
+198,none,0.0
+199,none,0.0
+200,none,0.0
+201,none,0.0
+202,none,0.0
+203,none,0.0
+204,none,0.0
+205,none,0.0
+206,car,0.58
+207,car,0.55
+208,traffic light,0.59
+209,traffic light,0.53
+210,traffic light,0.52
+211,traffic light,0.56
+212,clock,0.51
+213,none,0.0
+214,none,0.0
+215,none,0.0
+216,none,0.0
+217,none,0.0
+218,none,0.0
+219,none,0.0
+220,none,0.0
+221,airplane,0.53
+222,kite,0.5
+223,none,0.0
+224,none,0.0
+225,none,0.0
+226,none,0.0
+227,none,0.0
+228,none,0.0
+229,none,0.0
+230,none,0.0
+231,none,0.0
+232,none,0.0
+233,none,0.0
+234,airplane,0.51
+235,none,0.0
+236,none,0.0
+237,none,0.0
+238,none,0.0
+239,none,0.0
+240,none,0.0
+241,none,0.0
+242,none,0.0
+243,traffic light,0.52
+244,traffic light,0.52
+245,traffic light,0.53
+246,none,0.0
+247,car,0.56
+248,car,0.55
+249,car,0.56
+250,none,0.0
+251,none,0.0
+252,none,0.0
+253,none,0.0
+254,none,0.0
+255,none,0.0
+256,none,0.0
+257,none,0.0
+258,none,0.0
+259,none,0.0
+260,none,0.0
+261,none,0.0
+262,none,0.0
+263,none,0.0
+264,none,0.0
+265,none,0.0
+266,none,0.0
+267,none,0.0
+268,clock,0.5
+269,none,0.0
+270,none,0.0
+271,none,0.0
+272,bus,0.53
+273,bus,0.54
+274,none,0.0
+275,none,0.0
+276,none,0.0
+277,none,0.0
+278,none,0.0
+279,none,0.0
+280,none,0.0
+281,none,0.0
+282,none,0.0
+283,none,0.0
+284,none,0.0
+285,bus,0.52
+286,none,0.0
+287,none,0.0
+288,none,0.0
+289,cell phone,0.5
+290,none,0.0
+291,none,0.0
+292,none,0.0
+293,none,0.0
+294,none,0.0
+295,none,0.0
+296,none,0.0
+297,cell phone,0.53
+298,none,0.0
+299,bus,0.6
+300,none,0.0
+301,none,0.0
+302,none,0.0
+303,none,0.0
+304,none,0.0
+305,bus,0.64
+306,none,0.0
+307,bus,0.53
+308,bus,0.55
+309,none,0.0
+310,none,0.0
+311,bus,0.58
+312,bus,0.53
+313,none,0.0
+314,none,0.0
+315,none,0.0
+316,none,0.0
+317,none,0.0
+318,none,0.0
+319,none,0.0
+320,none,0.0
+321,none,0.0
+322,none,0.0
+323,none,0.0
+324,none,0.0
+325,none,0.0
+326,none,0.0
+327,none,0.0
+328,none,0.0
+329,none,0.0
+330,none,0.0
+331,traffic light,0.54
+332,traffic light,0.59
+333,traffic light,0.54
+334,tv,0.55
+335,traffic light,0.5
+336,tv,0.54
+337,none,0.0
+338,tv,0.51
+339,traffic light,0.53
+340,tv,0.65
+341,traffic light,0.63
+342,traffic light,0.61
+343,traffic light,0.56
+344,traffic light,0.53
+345,none,0.0
+346,traffic light,0.52
+347,none,0.0
+348,none,0.0
+349,none,0.0
+350,none,0.0
+351,none,0.0
+352,none,0.0
+353,none,0.0
+354,none,0.0
+355,none,0.0
+356,none,0.0
+357,none,0.0
+358,none,0.0
+359,none,0.0
+360,none,0.0
+361,none,0.0
+362,none,0.0
+363,none,0.0
+364,bus,0.51
+365,none,0.0
+366,none,0.0
+367,none,0.0
+368,bus,0.62
+369,bus,0.6
+370,bus,0.54
+371,none,0.0
+372,bus,0.57
+373,none,0.0
+374,none,0.0
+375,bus,0.51
+376,bus,0.63
+377,none,0.0
+378,cell phone,0.52
+379,none,0.0
+380,none,0.0
+381,none,0.0
+382,none,0.0
+383,none,0.0
+384,none,0.0
+385,cell phone,0.5
+386,cell phone,0.55
+387,none,0.0
+388,none,0.0
+389,none,0.0
+390,none,0.0
+391,none,0.0
+392,cell phone,0.52
+393,none,0.0
+394,none,0.0
+395,none,0.0
+396,none,0.0
+397,none,0.0
+398,none,0.0
+399,bus,0.54
+400,bus,0.5
+401,none,0.0
+402,bus,0.55
+403,bus,0.52
+404,none,0.0
+405,none,0.0
+406,none,0.0
+407,bus,0.51
+408,none,0.0
+409,none,0.0
+410,bus,0.51
+411,none,0.0
+412,clock,0.51
+413,none,0.0
+414,none,0.0
+415,none,0.0
+416,bus,0.52
+417,none,0.0
+418,none,0.0
+419,none,0.0
+420,none,0.0
+421,none,0.0
+422,none,0.0
+423,none,0.0
+424,none,0.0
+425,none,0.0
+426,car,0.52
+427,car,0.53
+428,car,0.57
+429,traffic light,0.53
+430,traffic light,0.56
+431,traffic light,0.52
+432,clock,0.55
+433,clock,0.51
+434,none,0.0
+435,none,0.0
+436,none,0.0
+437,none,0.0
+438,none,0.0

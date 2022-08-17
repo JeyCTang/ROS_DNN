@@ -1,0 +1,442 @@
+,category,score
+0,none,0.0
+1,none,0.0
+2,none,0.0
+3,none,0.0
+4,none,0.0
+5,none,0.0
+6,none,0.0
+7,none,0.0
+8,none,0.0
+9,none,0.0
+10,none,0.0
+11,none,0.0
+12,airplane,0.5
+13,airplane,0.53
+14,airplane,0.59
+15,airplane,0.61
+16,airplane,0.6
+17,airplane,0.64
+18,airplane,0.61
+19,airplane,0.68
+20,airplane,0.62
+21,airplane,0.62
+22,airplane,0.67
+23,airplane,0.61
+24,airplane,0.63
+25,airplane,0.55
+26,airplane,0.65
+27,traffic light,0.6
+28,traffic light,0.56
+29,airplane,0.62
+30,airplane,0.67
+31,airplane,0.67
+32,traffic light,0.68
+33,traffic light,0.71
+34,traffic light,0.66
+35,traffic light,0.65
+36,traffic light,0.68
+37,traffic light,0.64
+38,airplane,0.63
+39,airplane,0.66
+40,traffic light,0.75
+41,traffic light,0.7
+42,traffic light,0.72
+43,traffic light,0.76
+44,traffic light,0.77
+45,traffic light,0.81
+46,traffic light,0.79
+47,traffic light,0.8
+48,traffic light,0.8
+49,traffic light,0.79
+50,traffic light,0.77
+51,traffic light,0.75
+52,traffic light,0.78
+53,traffic light,0.79
+54,traffic light,0.77
+55,traffic light,0.76
+56,traffic light,0.76
+57,traffic light,0.76
+58,traffic light,0.76
+59,traffic light,0.73
+60,traffic light,0.76
+61,traffic light,0.78
+62,traffic light,0.8
+63,traffic light,0.76
+64,traffic light,0.78
+65,traffic light,0.78
+66,traffic light,0.76
+67,traffic light,0.72
+68,traffic light,0.76
+69,traffic light,0.77
+70,traffic light,0.79
+71,traffic light,0.77
+72,traffic light,0.78
+73,traffic light,0.79
+74,traffic light,0.79
+75,traffic light,0.78
+76,traffic light,0.8
+77,traffic light,0.79
+78,traffic light,0.77
+79,traffic light,0.8
+80,traffic light,0.81
+81,traffic light,0.81
+82,traffic light,0.76
+83,traffic light,0.83
+84,traffic light,0.83
+85,traffic light,0.81
+86,traffic light,0.81
+87,traffic light,0.83
+88,traffic light,0.8
+89,traffic light,0.76
+90,traffic light,0.8
+91,traffic light,0.82
+92,traffic light,0.82
+93,traffic light,0.79
+94,traffic light,0.71
+95,traffic light,0.75
+96,traffic light,0.75
+97,traffic light,0.7
+98,traffic light,0.74
+99,traffic light,0.74
+100,traffic light,0.72
+101,airplane,0.58
+102,traffic light,0.61
+103,traffic light,0.57
+104,none,0.0
+105,traffic light,0.58
+106,traffic light,0.63
+107,traffic light,0.54
+108,traffic light,0.55
+109,none,0.0
+110,none,0.0
+111,none,0.0
+112,none,0.0
+113,none,0.0
+114,none,0.0
+115,none,0.0
+116,none,0.0
+117,none,0.0
+118,none,0.0
+119,none,0.0
+120,none,0.0
+121,none,0.0
+122,none,0.0
+123,none,0.0
+124,none,0.0
+125,traffic light,0.52
+126,none,0.0
+127,traffic light,0.61
+128,traffic light,0.68
+129,traffic light,0.58
+130,none,0.0
+131,traffic light,0.66
+132,traffic light,0.62
+133,traffic light,0.65
+134,traffic light,0.7
+135,traffic light,0.72
+136,traffic light,0.72
+137,traffic light,0.63
+138,traffic light,0.75
+139,traffic light,0.74
+140,traffic light,0.75
+141,traffic light,0.67
+142,traffic light,0.75
+143,traffic light,0.78
+144,traffic light,0.82
+145,traffic light,0.81
+146,traffic light,0.78
+147,traffic light,0.8
+148,traffic light,0.8
+149,traffic light,0.83
+150,traffic light,0.82
+151,traffic light,0.82
+152,traffic light,0.81
+153,traffic light,0.83
+154,traffic light,0.82
+155,traffic light,0.79
+156,traffic light,0.81
+157,traffic light,0.8
+158,traffic light,0.81
+159,traffic light,0.8
+160,traffic light,0.79
+161,traffic light,0.8
+162,traffic light,0.81
+163,traffic light,0.77
+164,traffic light,0.81
+165,traffic light,0.78
+166,traffic light,0.81
+167,traffic light,0.76
+168,traffic light,0.78
+169,traffic light,0.77
+170,traffic light,0.8
+171,traffic light,0.79
+172,traffic light,0.77
+173,traffic light,0.78
+174,traffic light,0.75
+175,traffic light,0.76
+176,traffic light,0.78
+177,traffic light,0.77
+178,traffic light,0.77
+179,traffic light,0.7
+180,traffic light,0.76
+181,traffic light,0.78
+182,traffic light,0.75
+183,traffic light,0.77
+184,traffic light,0.76
+185,traffic light,0.73
+186,traffic light,0.77
+187,traffic light,0.8
+188,traffic light,0.79
+189,traffic light,0.79
+190,traffic light,0.8
+191,traffic light,0.77
+192,traffic light,0.77
+193,traffic light,0.68
+194,traffic light,0.75
+195,traffic light,0.72
+196,airplane,0.64
+197,traffic light,0.64
+198,traffic light,0.68
+199,traffic light,0.67
+200,traffic light,0.64
+201,airplane,0.63
+202,traffic light,0.66
+203,airplane,0.63
+204,traffic light,0.57
+205,traffic light,0.56
+206,airplane,0.63
+207,airplane,0.6
+208,airplane,0.58
+209,airplane,0.66
+210,airplane,0.61
+211,airplane,0.65
+212,airplane,0.63
+213,airplane,0.69
+214,airplane,0.62
+215,airplane,0.62
+216,airplane,0.6
+217,airplane,0.54
+218,none,0.0
+219,none,0.0
+220,none,0.0
+221,none,0.0
+222,none,0.0
+223,none,0.0
+224,none,0.0
+225,none,0.0
+226,none,0.0
+227,none,0.0
+228,none,0.0
+229,none,0.0
+230,none,0.0
+231,none,0.0
+232,none,0.0
+233,none,0.0
+234,none,0.0
+235,none,0.0
+236,none,0.0
+237,none,0.0
+238,none,0.0
+239,none,0.0
+240,none,0.0
+241,none,0.0
+242,airplane,0.54
+243,airplane,0.58
+244,airplane,0.61
+245,airplane,0.6
+246,airplane,0.61
+247,airplane,0.68
+248,airplane,0.63
+249,airplane,0.68
+250,airplane,0.62
+251,airplane,0.64
+252,airplane,0.63
+253,airplane,0.61
+254,airplane,0.58
+255,airplane,0.6
+256,traffic light,0.52
+257,airplane,0.63
+258,traffic light,0.54
+259,traffic light,0.54
+260,traffic light,0.52
+261,airplane,0.6
+262,airplane,0.68
+263,traffic light,0.65
+264,airplane,0.62
+265,traffic light,0.66
+266,traffic light,0.67
+267,traffic light,0.68
+268,traffic light,0.63
+269,traffic light,0.7
+270,traffic light,0.65
+271,traffic light,0.67
+272,traffic light,0.62
+273,airplane,0.74
+274,traffic light,0.72
+275,traffic light,0.76
+276,traffic light,0.7
+277,traffic light,0.73
+278,traffic light,0.69
+279,traffic light,0.77
+280,traffic light,0.78
+281,traffic light,0.8
+282,traffic light,0.79
+283,traffic light,0.79
+284,traffic light,0.79
+285,traffic light,0.78
+286,traffic light,0.77
+287,traffic light,0.72
+288,traffic light,0.78
+289,traffic light,0.79
+290,traffic light,0.79
+291,traffic light,0.76
+292,traffic light,0.78
+293,traffic light,0.77
+294,traffic light,0.76
+295,traffic light,0.75
+296,traffic light,0.73
+297,traffic light,0.81
+298,traffic light,0.76
+299,traffic light,0.74
+300,traffic light,0.76
+301,traffic light,0.78
+302,traffic light,0.79
+303,traffic light,0.74
+304,traffic light,0.8
+305,traffic light,0.81
+306,traffic light,0.79
+307,traffic light,0.74
+308,traffic light,0.79
+309,traffic light,0.8
+310,traffic light,0.78
+311,traffic light,0.77
+312,traffic light,0.8
+313,traffic light,0.76
+314,traffic light,0.79
+315,traffic light,0.82
+316,traffic light,0.78
+317,traffic light,0.83
+318,traffic light,0.84
+319,traffic light,0.82
+320,traffic light,0.81
+321,traffic light,0.82
+322,traffic light,0.82
+323,traffic light,0.79
+324,traffic light,0.81
+325,traffic light,0.8
+326,traffic light,0.7
+327,traffic light,0.77
+328,traffic light,0.74
+329,traffic light,0.77
+330,traffic light,0.7
+331,traffic light,0.76
+332,traffic light,0.68
+333,traffic light,0.6
+334,traffic light,0.69
+335,traffic light,0.59
+336,traffic light,0.69
+337,none,0.0
+338,none,0.0
+339,none,0.0
+340,none,0.0
+341,none,0.0
+342,none,0.0
+343,traffic light,0.51
+344,traffic light,0.62
+345,traffic light,0.66
+346,traffic light,0.6
+347,none,0.0
+348,traffic light,0.65
+349,traffic light,0.65
+350,traffic light,0.63
+351,traffic light,0.68
+352,traffic light,0.65
+353,traffic light,0.77
+354,traffic light,0.76
+355,traffic light,0.75
+356,traffic light,0.58
+357,traffic light,0.7
+358,traffic light,0.73
+359,traffic light,0.73
+360,traffic light,0.76
+361,traffic light,0.73
+362,traffic light,0.81
+363,traffic light,0.78
+364,traffic light,0.82
+365,traffic light,0.8
+366,traffic light,0.79
+367,traffic light,0.8
+368,traffic light,0.8
+369,traffic light,0.82
+370,traffic light,0.82
+371,traffic light,0.82
+372,traffic light,0.81
+373,traffic light,0.84
+374,traffic light,0.81
+375,traffic light,0.79
+376,traffic light,0.8
+377,traffic light,0.8
+378,traffic light,0.81
+379,traffic light,0.76
+380,traffic light,0.79
+381,traffic light,0.82
+382,traffic light,0.81
+383,traffic light,0.76
+384,traffic light,0.81
+385,traffic light,0.78
+386,traffic light,0.8
+387,traffic light,0.73
+388,traffic light,0.79
+389,traffic light,0.78
+390,traffic light,0.78
+391,traffic light,0.75
+392,traffic light,0.79
+393,traffic light,0.76
+394,traffic light,0.75
+395,traffic light,0.78
+396,traffic light,0.82
+397,traffic light,0.78
+398,traffic light,0.71
+399,traffic light,0.76
+400,traffic light,0.78
+401,traffic light,0.79
+402,traffic light,0.76
+403,traffic light,0.77
+404,traffic light,0.79
+405,traffic light,0.73
+406,traffic light,0.77
+407,traffic light,0.75
+408,traffic light,0.8
+409,traffic light,0.78
+410,traffic light,0.8
+411,traffic light,0.79
+412,airplane,0.68
+413,airplane,0.68
+414,traffic light,0.75
+415,airplane,0.68
+416,traffic light,0.64
+417,traffic light,0.72
+418,traffic light,0.72
+419,traffic light,0.62
+420,traffic light,0.65
+421,traffic light,0.59
+422,traffic light,0.59
+423,traffic light,0.54
+424,airplane,0.62
+425,airplane,0.58
+426,airplane,0.52
+427,airplane,0.67
+428,airplane,0.64
+429,airplane,0.66
+430,airplane,0.68
+431,airplane,0.63
+432,airplane,0.61
+433,airplane,0.62
+434,airplane,0.53
+435,none,0.0
+436,none,0.0
+437,none,0.0
+438,none,0.0
+439,none,0.0
+440,none,0.0

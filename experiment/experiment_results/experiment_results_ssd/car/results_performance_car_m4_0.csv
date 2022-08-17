@@ -1,0 +1,381 @@
+,category,score
+0,clock,0.6
+1,clock,0.58
+2,clock,0.59
+3,clock,0.6
+4,clock,0.58
+5,traffic light,0.54
+6,clock,0.56
+7,traffic light,0.59
+8,traffic light,0.61
+9,traffic light,0.62
+10,clock,0.53
+11,traffic light,0.56
+12,traffic light,0.62
+13,traffic light,0.63
+14,traffic light,0.64
+15,traffic light,0.61
+16,traffic light,0.68
+17,traffic light,0.61
+18,traffic light,0.67
+19,traffic light,0.67
+20,traffic light,0.68
+21,traffic light,0.64
+22,traffic light,0.58
+23,traffic light,0.6
+24,traffic light,0.63
+25,traffic light,0.67
+26,traffic light,0.67
+27,traffic light,0.7
+28,traffic light,0.7
+29,traffic light,0.67
+30,traffic light,0.64
+31,traffic light,0.61
+32,traffic light,0.58
+33,traffic light,0.58
+34,traffic light,0.58
+35,traffic light,0.55
+36,traffic light,0.59
+37,traffic light,0.63
+38,none,0.0
+39,traffic light,0.62
+40,traffic light,0.61
+41,traffic light,0.59
+42,traffic light,0.73
+43,traffic light,0.58
+44,traffic light,0.71
+45,traffic light,0.73
+46,truck,0.52
+47,traffic light,0.71
+48,traffic light,0.73
+49,traffic light,0.72
+50,traffic light,0.71
+51,traffic light,0.72
+52,traffic light,0.71
+53,traffic light,0.63
+54,traffic light,0.65
+55,traffic light,0.65
+56,traffic light,0.67
+57,traffic light,0.66
+58,traffic light,0.69
+59,traffic light,0.67
+60,traffic light,0.66
+61,traffic light,0.67
+62,traffic light,0.67
+63,traffic light,0.7
+64,traffic light,0.71
+65,traffic light,0.66
+66,traffic light,0.67
+67,traffic light,0.54
+68,traffic light,0.62
+69,airplane,0.56
+70,airplane,0.6
+71,none,0.0
+72,none,0.0
+73,none,0.0
+74,none,0.0
+75,none,0.0
+76,traffic light,0.55
+77,none,0.0
+78,traffic light,0.54
+79,traffic light,0.55
+80,traffic light,0.56
+81,traffic light,0.61
+82,traffic light,0.58
+83,airplane,0.6
+84,traffic light,0.66
+85,traffic light,0.65
+86,traffic light,0.59
+87,traffic light,0.57
+88,traffic light,0.6
+89,airplane,0.56
+90,traffic light,0.55
+91,traffic light,0.53
+92,traffic light,0.59
+93,traffic light,0.65
+94,traffic light,0.63
+95,truck,0.58
+96,none,0.0
+97,none,0.0
+98,none,0.0
+99,none,0.0
+100,none,0.0
+101,none,0.0
+102,none,0.0
+103,none,0.0
+104,none,0.0
+105,none,0.0
+106,none,0.0
+107,none,0.0
+108,none,0.0
+109,traffic light,0.57
+110,traffic light,0.59
+111,car,0.63
+112,traffic light,0.58
+113,traffic light,0.62
+114,traffic light,0.55
+115,traffic light,0.65
+116,traffic light,0.62
+117,traffic light,0.65
+118,traffic light,0.6
+119,traffic light,0.62
+120,traffic light,0.61
+121,traffic light,0.66
+122,traffic light,0.59
+123,traffic light,0.55
+124,traffic light,0.59
+125,traffic light,0.58
+126,airplane,0.53
+127,airplane,0.54
+128,traffic light,0.55
+129,traffic light,0.53
+130,airplane,0.52
+131,traffic light,0.55
+132,traffic light,0.66
+133,none,0.0
+134,traffic light,0.53
+135,traffic light,0.51
+136,traffic light,0.53
+137,traffic light,0.58
+138,traffic light,0.63
+139,traffic light,0.58
+140,traffic light,0.58
+141,traffic light,0.65
+142,traffic light,0.7
+143,traffic light,0.66
+144,traffic light,0.73
+145,traffic light,0.69
+146,traffic light,0.66
+147,traffic light,0.71
+148,traffic light,0.69
+149,traffic light,0.69
+150,traffic light,0.67
+151,traffic light,0.65
+152,traffic light,0.62
+153,traffic light,0.64
+154,traffic light,0.66
+155,traffic light,0.64
+156,traffic light,0.66
+157,traffic light,0.71
+158,truck,0.55
+159,traffic light,0.71
+160,traffic light,0.73
+161,traffic light,0.67
+162,traffic light,0.58
+163,traffic light,0.74
+164,traffic light,0.59
+165,traffic light,0.68
+166,traffic light,0.64
+167,traffic light,0.68
+168,traffic light,0.51
+169,traffic light,0.62
+170,traffic light,0.62
+171,traffic light,0.71
+172,traffic light,0.52
+173,traffic light,0.57
+174,traffic light,0.55
+175,traffic light,0.68
+176,traffic light,0.61
+177,traffic light,0.62
+178,traffic light,0.67
+179,traffic light,0.68
+180,traffic light,0.7
+181,traffic light,0.71
+182,traffic light,0.64
+183,traffic light,0.58
+184,traffic light,0.6
+185,traffic light,0.66
+186,traffic light,0.68
+187,traffic light,0.69
+188,traffic light,0.66
+189,traffic light,0.65
+190,traffic light,0.67
+191,traffic light,0.61
+192,traffic light,0.66
+193,traffic light,0.59
+194,none,0.0
+195,traffic light,0.52
+196,traffic light,0.5
+197,traffic light,0.66
+198,clock,0.58
+199,traffic light,0.53
+200,clock,0.63
+201,traffic light,0.65
+202,clock,0.52
+203,traffic light,0.52
+204,traffic light,0.57
+205,traffic light,0.54
+206,traffic light,0.66
+207,traffic light,0.62
+208,traffic light,0.66
+209,traffic light,0.68
+210,traffic light,0.67
+211,traffic light,0.68
+212,traffic light,0.67
+213,traffic light,0.69
+214,traffic light,0.67
+215,traffic light,0.65
+216,traffic light,0.6
+217,traffic light,0.67
+218,traffic light,0.68
+219,traffic light,0.71
+220,traffic light,0.69
+221,traffic light,0.68
+222,traffic light,0.64
+223,traffic light,0.64
+224,traffic light,0.65
+225,traffic light,0.55
+226,traffic light,0.61
+227,truck,0.56
+228,traffic light,0.57
+229,traffic light,0.58
+230,none,0.0
+231,traffic light,0.66
+232,traffic light,0.69
+233,none,0.0
+234,traffic light,0.65
+235,traffic light,0.65
+236,traffic light,0.69
+237,traffic light,0.57
+238,traffic light,0.72
+239,traffic light,0.71
+240,truck,0.58
+241,traffic light,0.71
+242,traffic light,0.7
+243,traffic light,0.7
+244,traffic light,0.72
+245,traffic light,0.7
+246,traffic light,0.72
+247,traffic light,0.68
+248,traffic light,0.67
+249,traffic light,0.68
+250,traffic light,0.67
+251,traffic light,0.65
+252,traffic light,0.68
+253,traffic light,0.66
+254,traffic light,0.67
+255,traffic light,0.59
+256,traffic light,0.7
+257,traffic light,0.72
+258,traffic light,0.71
+259,traffic light,0.63
+260,traffic light,0.66
+261,traffic light,0.54
+262,traffic light,0.51
+263,traffic light,0.64
+264,traffic light,0.52
+265,airplane,0.5
+266,none,0.0
+267,none,0.0
+268,traffic light,0.59
+269,none,0.0
+270,truck,0.52
+271,none,0.0
+272,traffic light,0.6
+273,airplane,0.52
+274,traffic light,0.63
+275,airplane,0.58
+276,traffic light,0.63
+277,traffic light,0.66
+278,traffic light,0.63
+279,traffic light,0.56
+280,traffic light,0.62
+281,traffic light,0.6
+282,car,0.52
+283,traffic light,0.63
+284,traffic light,0.64
+285,traffic light,0.59
+286,traffic light,0.63
+287,traffic light,0.63
+288,traffic light,0.55
+289,none,0.0
+290,none,0.0
+291,none,0.0
+292,none,0.0
+293,none,0.0
+294,none,0.0
+295,none,0.0
+296,none,0.0
+297,none,0.0
+298,traffic light,0.53
+299,none,0.0
+300,traffic light,0.63
+301,truck,0.62
+302,truck,0.59
+303,traffic light,0.61
+304,traffic light,0.62
+305,traffic light,0.54
+306,traffic light,0.64
+307,traffic light,0.66
+308,traffic light,0.56
+309,traffic light,0.58
+310,traffic light,0.61
+311,traffic light,0.65
+312,traffic light,0.6
+313,airplane,0.59
+314,airplane,0.58
+315,traffic light,0.61
+316,none,0.0
+317,traffic light,0.52
+318,traffic light,0.53
+319,airplane,0.5
+320,airplane,0.53
+321,traffic light,0.66
+322,none,0.0
+323,none,0.0
+324,traffic light,0.51
+325,none,0.0
+326,none,0.0
+327,none,0.0
+328,none,0.0
+329,traffic light,0.57
+330,none,0.0
+331,traffic light,0.56
+332,traffic light,0.59
+333,traffic light,0.64
+334,traffic light,0.65
+335,traffic light,0.73
+336,traffic light,0.7
+337,traffic light,0.68
+338,traffic light,0.71
+339,traffic light,0.69
+340,traffic light,0.66
+341,traffic light,0.65
+342,traffic light,0.68
+343,traffic light,0.64
+344,traffic light,0.67
+345,traffic light,0.67
+346,traffic light,0.66
+347,traffic light,0.69
+348,traffic light,0.69
+349,traffic light,0.73
+350,traffic light,0.71
+351,traffic light,0.74
+352,traffic light,0.71
+353,traffic light,0.58
+354,traffic light,0.71
+355,traffic light,0.68
+356,traffic light,0.58
+357,traffic light,0.72
+358,traffic light,0.65
+359,traffic light,0.66
+360,traffic light,0.64
+361,traffic light,0.59
+362,traffic light,0.54
+363,traffic light,0.54
+364,traffic light,0.62
+365,traffic light,0.7
+366,traffic light,0.6
+367,traffic light,0.63
+368,traffic light,0.69
+369,traffic light,0.67
+370,traffic light,0.67
+371,traffic light,0.66
+372,traffic light,0.64
+373,traffic light,0.61
+374,traffic light,0.68
+375,traffic light,0.7
+376,traffic light,0.7
+377,truck,0.62
+378,traffic light,0.65
+379,traffic light,0.64

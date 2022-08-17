@@ -1,0 +1,290 @@
+,category,score
+0,kite,0.6
+1,kite,0.6
+2,kite,0.6
+3,kite,0.59
+4,kite,0.6
+5,kite,0.56
+6,kite,0.52
+7,clock,0.51
+8,clock,0.63
+13,kite,0.57
+16,kite,0.58
+17,traffic light,0.57
+18,airplane,0.58
+19,traffic light,0.61
+20,traffic light,0.65
+21,truck,0.55
+22,airplane,0.63
+23,airplane,0.54
+24,airplane,0.52
+25,airplane,0.63
+26,airplane,0.61
+28,traffic light,0.57
+29,traffic light,0.5
+32,airplane,0.5
+33,airplane,0.64
+34,airplane,0.65
+35,airplane,0.7
+36,airplane,0.66
+37,car,0.66
+38,airplane,0.55
+39,airplane,0.56
+40,car,0.52
+46,airplane,0.52
+47,airplane,0.5
+48,car,0.56
+49,airplane,0.58
+50,car,0.68
+51,car,0.54
+52,motorcycle,0.53
+53,car,0.62
+54,car,0.67
+56,car,0.76
+57,car,0.74
+59,car,0.52
+60,car,0.67
+61,car,0.64
+62,car,0.65
+63,car,0.69
+64,car,0.69
+65,car,0.65
+66,car,0.71
+67,car,0.78
+68,car,0.77
+69,car,0.72
+70,car,0.7
+71,airplane,0.58
+72,airplane,0.51
+73,car,0.69
+74,car,0.54
+75,airplane,0.58
+76,car,0.52
+77,car,0.54
+78,airplane,0.58
+81,traffic light,0.55
+82,airplane,0.5
+85,kite,0.51
+87,kite,0.52
+88,traffic light,0.52
+89,kite,0.5
+90,kite,0.56
+92,kite,0.51
+96,clock,0.5
+100,clock,0.5
+105,kite,0.59
+107,kite,0.51
+109,kite,0.57
+110,kite,0.54
+112,airplane,0.53
+113,truck,0.55
+114,truck,0.52
+115,truck,0.51
+116,traffic light,0.57
+117,truck,0.51
+118,truck,0.52
+119,airplane,0.56
+121,car,0.54
+122,car,0.53
+123,airplane,0.54
+124,airplane,0.53
+125,car,0.59
+126,car,0.57
+127,airplane,0.58
+128,car,0.62
+129,car,0.72
+130,car,0.7
+131,car,0.76
+132,car,0.76
+133,car,0.76
+134,car,0.66
+135,car,0.67
+136,car,0.72
+137,car,0.71
+138,car,0.62
+139,car,0.72
+140,car,0.69
+141,car,0.7
+142,car,0.69
+143,car,0.72
+144,car,0.6
+145,car,0.64
+146,car,0.63
+147,car,0.58
+148,car,0.58
+149,car,0.57
+150,car,0.58
+151,airplane,0.54
+153,car,0.7
+154,airplane,0.55
+155,airplane,0.56
+156,car,0.52
+160,car,0.59
+161,car,0.58
+162,car,0.57
+163,airplane,0.61
+164,airplane,0.69
+165,airplane,0.67
+166,airplane,0.57
+167,airplane,0.54
+168,traffic light,0.57
+170,traffic light,0.51
+172,airplane,0.5
+173,airplane,0.58
+174,traffic light,0.54
+175,airplane,0.71
+176,airplane,0.62
+177,traffic light,0.59
+178,traffic light,0.67
+179,airplane,0.54
+180,traffic light,0.56
+181,traffic light,0.5
+182,kite,0.61
+183,kite,0.51
+184,kite,0.58
+186,kite,0.51
+188,clock,0.55
+189,clock,0.53
+190,kite,0.53
+191,kite,0.56
+192,kite,0.58
+193,kite,0.55
+194,kite,0.59
+195,kite,0.53
+196,kite,0.53
+197,clock,0.55
+200,kite,0.52
+201,kite,0.6
+202,kite,0.57
+203,kite,0.55
+204,kite,0.55
+205,traffic light,0.54
+206,traffic light,0.61
+207,kite,0.58
+208,traffic light,0.63
+209,traffic light,0.66
+210,airplane,0.6
+211,airplane,0.61
+212,airplane,0.58
+213,airplane,0.55
+214,airplane,0.69
+215,airplane,0.56
+216,airplane,0.55
+218,traffic light,0.57
+219,traffic light,0.62
+222,airplane,0.59
+223,airplane,0.57
+224,airplane,0.67
+225,airplane,0.72
+226,airplane,0.72
+227,airplane,0.66
+228,car,0.56
+229,car,0.52
+230,airplane,0.52
+231,car,0.55
+233,airplane,0.51
+236,airplane,0.53
+237,airplane,0.57
+238,car,0.53
+239,airplane,0.54
+240,car,0.6
+241,car,0.63
+242,car,0.63
+243,car,0.53
+244,car,0.66
+245,car,0.64
+246,car,0.6
+247,car,0.75
+248,car,0.76
+249,car,0.68
+250,car,0.69
+251,car,0.6
+252,car,0.69
+253,car,0.77
+254,car,0.69
+255,car,0.7
+256,car,0.78
+257,car,0.76
+258,car,0.75
+259,car,0.6
+260,airplane,0.56
+261,car,0.61
+262,car,0.61
+264,car,0.55
+265,car,0.5
+266,airplane,0.5
+267,airplane,0.53
+269,airplane,0.52
+270,traffic light,0.58
+271,truck,0.53
+272,airplane,0.58
+273,airplane,0.53
+274,truck,0.53
+277,kite,0.55
+278,kite,0.52
+293,kite,0.57
+297,kite,0.51
+298,traffic light,0.51
+299,kite,0.52
+302,airplane,0.53
+303,truck,0.58
+304,traffic light,0.52
+305,airplane,0.59
+307,car,0.53
+310,traffic light,0.53
+311,car,0.57
+312,car,0.54
+314,car,0.59
+315,car,0.59
+316,car,0.68
+317,car,0.59
+318,car,0.56
+319,car,0.65
+320,car,0.76
+321,car,0.73
+322,car,0.75
+323,car,0.77
+324,car,0.77
+325,car,0.59
+326,car,0.62
+327,car,0.77
+328,car,0.69
+329,car,0.62
+330,car,0.75
+331,car,0.64
+333,car,0.73
+334,car,0.75
+335,car,0.58
+336,car,0.67
+337,car,0.64
+338,motorcycle,0.56
+339,car,0.65
+340,car,0.65
+341,airplane,0.58
+343,car,0.71
+344,airplane,0.54
+345,airplane,0.57
+347,airplane,0.52
+348,car,0.53
+349,car,0.67
+350,airplane,0.5
+351,airplane,0.59
+352,airplane,0.7
+353,airplane,0.69
+354,airplane,0.65
+355,airplane,0.53
+358,traffic light,0.6
+359,traffic light,0.61
+360,airplane,0.58
+362,airplane,0.61
+363,airplane,0.55
+364,airplane,0.67
+365,airplane,0.59
+366,traffic light,0.55
+367,traffic light,0.6
+368,airplane,0.57
+369,traffic light,0.54
+370,kite,0.51
+371,airplane,0.5
+372,kite,0.59
+373,kite,0.54

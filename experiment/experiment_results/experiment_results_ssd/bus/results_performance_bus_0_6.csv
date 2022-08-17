@@ -1,0 +1,436 @@
+,category,score
+0,none,0.0
+1,none,0.0
+2,none,0.0
+3,none,0.0
+4,none,0.0
+5,none,0.0
+6,none,0.0
+7,none,0.0
+8,none,0.0
+9,none,0.0
+10,none,0.0
+11,none,0.0
+12,none,0.0
+13,none,0.0
+14,none,0.0
+15,none,0.0
+16,none,0.0
+17,none,0.0
+18,none,0.0
+19,airplane,0.54
+20,airplane,0.61
+21,airplane,0.56
+22,none,0.0
+23,none,0.0
+24,none,0.0
+25,none,0.0
+26,traffic light,0.55
+27,none,0.0
+28,none,0.0
+29,traffic light,0.55
+30,tv,0.53
+31,traffic light,0.55
+32,traffic light,0.65
+33,traffic light,0.67
+34,traffic light,0.56
+35,traffic light,0.6
+36,traffic light,0.68
+37,traffic light,0.67
+38,traffic light,0.7
+39,traffic light,0.72
+40,traffic light,0.69
+41,traffic light,0.65
+42,traffic light,0.59
+43,traffic light,0.61
+44,cell phone,0.57
+45,cell phone,0.54
+46,traffic light,0.57
+47,cell phone,0.51
+48,traffic light,0.59
+49,cell phone,0.54
+50,none,0.0
+51,none,0.0
+52,traffic light,0.54
+53,cell phone,0.52
+54,traffic light,0.56
+55,traffic light,0.56
+56,traffic light,0.6
+57,traffic light,0.58
+58,none,0.0
+59,none,0.0
+60,traffic light,0.55
+61,traffic light,0.55
+62,traffic light,0.56
+63,traffic light,0.54
+64,traffic light,0.58
+65,traffic light,0.55
+66,none,0.0
+67,traffic light,0.52
+68,traffic light,0.59
+69,traffic light,0.59
+70,traffic light,0.58
+71,traffic light,0.6
+72,traffic light,0.6
+73,traffic light,0.55
+74,none,0.0
+75,none,0.0
+76,traffic light,0.59
+77,traffic light,0.58
+78,traffic light,0.57
+79,traffic light,0.62
+80,traffic light,0.58
+81,traffic light,0.57
+82,cell phone,0.54
+83,traffic light,0.61
+84,traffic light,0.62
+85,traffic light,0.7
+86,traffic light,0.74
+87,traffic light,0.74
+88,traffic light,0.7
+89,traffic light,0.78
+90,traffic light,0.76
+91,traffic light,0.77
+92,traffic light,0.76
+93,traffic light,0.77
+94,traffic light,0.73
+95,traffic light,0.7
+96,traffic light,0.72
+97,traffic light,0.69
+98,traffic light,0.66
+99,traffic light,0.53
+100,traffic light,0.55
+101,none,0.0
+102,none,0.0
+103,none,0.0
+104,none,0.0
+105,none,0.0
+106,none,0.0
+107,none,0.0
+108,none,0.0
+109,none,0.0
+110,none,0.0
+111,none,0.0
+112,none,0.0
+113,none,0.0
+114,none,0.0
+115,none,0.0
+116,none,0.0
+117,none,0.0
+118,none,0.0
+119,none,0.0
+120,none,0.0
+121,traffic light,0.54
+122,traffic light,0.57
+123,traffic light,0.64
+124,traffic light,0.68
+125,traffic light,0.7
+126,traffic light,0.68
+127,traffic light,0.7
+128,traffic light,0.73
+129,traffic light,0.75
+130,traffic light,0.79
+131,traffic light,0.76
+132,traffic light,0.76
+133,traffic light,0.75
+134,traffic light,0.77
+135,traffic light,0.71
+136,traffic light,0.71
+137,traffic light,0.71
+138,traffic light,0.71
+139,traffic light,0.67
+140,traffic light,0.63
+141,traffic light,0.59
+142,traffic light,0.55
+143,traffic light,0.52
+144,traffic light,0.62
+145,traffic light,0.64
+146,traffic light,0.57
+147,traffic light,0.57
+148,traffic light,0.56
+149,traffic light,0.54
+150,traffic light,0.54
+151,traffic light,0.52
+152,traffic light,0.56
+153,traffic light,0.63
+154,none,0.0
+155,traffic light,0.56
+156,traffic light,0.55
+157,traffic light,0.53
+158,none,0.0
+159,none,0.0
+160,traffic light,0.56
+161,traffic light,0.6
+162,traffic light,0.61
+163,traffic light,0.56
+164,traffic light,0.6
+165,traffic light,0.58
+166,none,0.0
+167,traffic light,0.51
+168,traffic light,0.62
+169,suitcase,0.5
+170,traffic light,0.57
+171,traffic light,0.52
+172,traffic light,0.56
+173,cell phone,0.53
+174,traffic light,0.54
+175,traffic light,0.56
+176,traffic light,0.57
+177,traffic light,0.56
+178,traffic light,0.54
+179,cell phone,0.57
+180,traffic light,0.57
+181,traffic light,0.62
+182,traffic light,0.68
+183,traffic light,0.71
+184,traffic light,0.69
+185,traffic light,0.69
+186,traffic light,0.66
+187,traffic light,0.61
+188,traffic light,0.63
+189,traffic light,0.64
+190,traffic light,0.52
+191,traffic light,0.56
+192,none,0.0
+193,none,0.0
+194,none,0.0
+195,none,0.0
+196,none,0.0
+197,none,0.0
+198,none,0.0
+199,airplane,0.57
+200,airplane,0.56
+201,none,0.0
+202,none,0.0
+203,none,0.0
+204,none,0.0
+205,none,0.0
+206,none,0.0
+207,none,0.0
+208,none,0.0
+209,none,0.0
+210,none,0.0
+211,none,0.0
+212,none,0.0
+213,none,0.0
+214,none,0.0
+215,none,0.0
+216,none,0.0
+217,none,0.0
+218,none,0.0
+219,none,0.0
+220,none,0.0
+221,none,0.0
+222,none,0.0
+223,none,0.0
+224,none,0.0
+225,none,0.0
+226,none,0.0
+227,none,0.0
+228,none,0.0
+229,none,0.0
+230,none,0.0
+231,none,0.0
+232,none,0.0
+233,none,0.0
+234,none,0.0
+235,none,0.0
+236,none,0.0
+237,none,0.0
+238,none,0.0
+239,none,0.0
+240,none,0.0
+241,none,0.0
+242,none,0.0
+243,none,0.0
+244,none,0.0
+245,none,0.0
+246,none,0.0
+247,none,0.0
+248,none,0.0
+249,none,0.0
+250,airplane,0.5
+251,airplane,0.63
+252,airplane,0.58
+253,airplane,0.57
+254,none,0.0
+255,none,0.0
+256,none,0.0
+257,none,0.0
+258,none,0.0
+259,none,0.0
+260,none,0.0
+261,none,0.0
+262,traffic light,0.53
+263,traffic light,0.54
+264,traffic light,0.53
+265,traffic light,0.61
+266,traffic light,0.66
+267,traffic light,0.67
+268,traffic light,0.64
+269,traffic light,0.6
+270,traffic light,0.71
+271,traffic light,0.7
+272,traffic light,0.65
+273,traffic light,0.71
+274,traffic light,0.7
+275,traffic light,0.67
+276,traffic light,0.66
+277,traffic light,0.61
+278,cell phone,0.55
+279,traffic light,0.59
+280,traffic light,0.55
+281,traffic light,0.58
+282,traffic light,0.58
+283,traffic light,0.55
+284,traffic light,0.57
+285,traffic light,0.56
+286,cell phone,0.51
+287,cell phone,0.53
+288,traffic light,0.55
+289,traffic light,0.57
+290,traffic light,0.55
+291,traffic light,0.6
+292,traffic light,0.65
+293,traffic light,0.63
+294,none,0.0
+295,none,0.0
+296,none,0.0
+297,traffic light,0.53
+298,traffic light,0.5
+299,traffic light,0.52
+300,traffic light,0.52
+301,traffic light,0.59
+302,traffic light,0.59
+303,none,0.0
+304,traffic light,0.53
+305,traffic light,0.56
+306,none,0.0
+307,cell phone,0.57
+308,traffic light,0.62
+309,traffic light,0.62
+310,traffic light,0.52
+311,traffic light,0.55
+312,traffic light,0.59
+313,traffic light,0.55
+314,traffic light,0.55
+315,traffic light,0.64
+316,traffic light,0.6
+317,traffic light,0.54
+318,traffic light,0.63
+319,traffic light,0.65
+320,traffic light,0.67
+321,traffic light,0.74
+322,traffic light,0.75
+323,traffic light,0.71
+324,traffic light,0.77
+325,traffic light,0.76
+326,traffic light,0.77
+327,traffic light,0.76
+328,traffic light,0.73
+329,traffic light,0.7
+330,traffic light,0.69
+331,traffic light,0.67
+332,traffic light,0.6
+333,none,0.0
+334,none,0.0
+335,none,0.0
+336,traffic light,0.57
+337,traffic light,0.6
+338,traffic light,0.68
+339,traffic light,0.69
+340,traffic light,0.72
+341,traffic light,0.71
+342,traffic light,0.72
+343,traffic light,0.72
+344,traffic light,0.76
+345,traffic light,0.78
+346,traffic light,0.76
+347,traffic light,0.77
+348,traffic light,0.75
+349,traffic light,0.78
+350,traffic light,0.76
+351,traffic light,0.71
+352,traffic light,0.74
+353,traffic light,0.75
+354,traffic light,0.71
+355,traffic light,0.7
+356,traffic light,0.68
+357,traffic light,0.58
+358,traffic light,0.62
+359,traffic light,0.54
+360,traffic light,0.58
+361,traffic light,0.6
+362,traffic light,0.62
+363,traffic light,0.58
+364,traffic light,0.62
+365,traffic light,0.55
+366,traffic light,0.6
+367,none,0.0
+368,none,0.0
+369,none,0.0
+370,traffic light,0.61
+371,traffic light,0.53
+372,traffic light,0.6
+373,cell phone,0.52
+374,traffic light,0.58
+375,traffic light,0.6
+376,traffic light,0.54
+377,none,0.0
+378,traffic light,0.58
+379,traffic light,0.59
+380,cell phone,0.59
+381,traffic light,0.56
+382,traffic light,0.52
+383,none,0.0
+384,traffic light,0.51
+385,traffic light,0.64
+386,traffic light,0.61
+387,traffic light,0.56
+388,traffic light,0.58
+389,none,0.0
+390,none,0.0
+391,none,0.0
+392,traffic light,0.53
+393,traffic light,0.58
+394,traffic light,0.55
+395,cell phone,0.5
+396,traffic light,0.6
+397,traffic light,0.64
+398,traffic light,0.62
+399,traffic light,0.7
+400,traffic light,0.67
+401,traffic light,0.6
+402,traffic light,0.64
+403,traffic light,0.6
+404,traffic light,0.66
+405,traffic light,0.59
+406,traffic light,0.55
+407,traffic light,0.58
+408,none,0.0
+409,none,0.0
+410,none,0.0
+411,none,0.0
+412,airplane,0.57
+413,airplane,0.56
+414,airplane,0.51
+415,none,0.0
+416,none,0.0
+417,none,0.0
+418,none,0.0
+419,none,0.0
+420,none,0.0
+421,none,0.0
+422,none,0.0
+423,none,0.0
+424,none,0.0
+425,none,0.0
+426,none,0.0
+427,none,0.0
+428,none,0.0
+429,none,0.0
+430,none,0.0
+431,none,0.0
+432,none,0.0
+433,none,0.0
+434,none,0.0

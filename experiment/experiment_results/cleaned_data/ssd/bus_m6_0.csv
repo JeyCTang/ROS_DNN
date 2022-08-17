@@ -1,0 +1,130 @@
+,category,score
+9,traffic light,0.51
+15,traffic light,0.52
+19,car,0.56
+20,car,0.56
+21,car,0.53
+22,car,0.51
+32,bus,0.51
+35,bus,0.5
+43,bus,0.57
+44,bus,0.6
+45,bus,0.54
+47,bus,0.53
+52,bus,0.54
+53,cell phone,0.5
+56,bus,0.55
+61,cell phone,0.5
+63,cell phone,0.51
+68,cell phone,0.5
+69,cell phone,0.53
+76,cell phone,0.53
+77,bus,0.51
+78,bus,0.61
+79,bus,0.56
+80,bus,0.55
+81,bus,0.54
+82,bus,0.54
+83,bus,0.55
+85,bus,0.61
+86,bus,0.51
+92,bus,0.5
+107,traffic light,0.5
+109,traffic light,0.59
+110,traffic light,0.61
+111,tv,0.57
+112,tv,0.55
+113,tv,0.51
+115,traffic light,0.6
+116,tv,0.55
+117,traffic light,0.6
+118,traffic light,0.61
+119,traffic light,0.58
+120,traffic light,0.59
+121,traffic light,0.51
+122,cell phone,0.51
+134,bus,0.51
+137,bus,0.55
+141,bus,0.51
+144,bus,0.53
+145,bus,0.58
+148,bus,0.6
+149,bus,0.54
+151,bus,0.57
+152,bus,0.53
+161,cell phone,0.54
+170,cell phone,0.5
+174,bus,0.53
+175,cell phone,0.52
+178,bus,0.59
+179,bus,0.55
+186,bus,0.62
+206,car,0.58
+207,car,0.55
+208,traffic light,0.59
+209,traffic light,0.53
+210,traffic light,0.52
+211,traffic light,0.56
+212,clock,0.51
+221,airplane,0.53
+222,kite,0.5
+234,airplane,0.51
+243,traffic light,0.52
+244,traffic light,0.52
+245,traffic light,0.53
+247,car,0.56
+248,car,0.55
+249,car,0.56
+268,clock,0.5
+272,bus,0.53
+273,bus,0.54
+285,bus,0.52
+289,cell phone,0.5
+297,cell phone,0.53
+299,bus,0.6
+305,bus,0.64
+307,bus,0.53
+308,bus,0.55
+311,bus,0.58
+312,bus,0.53
+331,traffic light,0.54
+332,traffic light,0.59
+333,traffic light,0.54
+334,tv,0.55
+335,traffic light,0.5
+336,tv,0.54
+338,tv,0.51
+339,traffic light,0.53
+340,tv,0.65
+341,traffic light,0.63
+342,traffic light,0.61
+343,traffic light,0.56
+344,traffic light,0.53
+346,traffic light,0.52
+364,bus,0.51
+368,bus,0.62
+369,bus,0.6
+370,bus,0.54
+372,bus,0.57
+375,bus,0.51
+376,bus,0.63
+378,cell phone,0.52
+385,cell phone,0.5
+386,cell phone,0.55
+392,cell phone,0.52
+399,bus,0.54
+400,bus,0.5
+402,bus,0.55
+403,bus,0.52
+407,bus,0.51
+410,bus,0.51
+412,clock,0.51
+416,bus,0.52
+426,car,0.52
+427,car,0.53
+428,car,0.57
+429,traffic light,0.53
+430,traffic light,0.56
+431,traffic light,0.52
+432,clock,0.55
+433,clock,0.51
